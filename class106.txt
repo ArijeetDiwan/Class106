@@ -1,0 +1,19 @@
+Correlation
+We will learn how two dataset are related to each other 
+ex-temperture vs Sales of ice-cream/cold drink
+
+1.look at the data 
+2.visualy if the data set are correlated
+3. calulated the Correlation index on a spread sheet 
+
+Correlation is between -1 to 1 
+correlation=1(+):
+2 dataset are closly correlated
+
+correlation=-1(-)
+2 dataset are inversly correlated
+ex-one dataset is increasing and other one is decreasing
+
+correlation=0
+2 dataset are not correlated
+
